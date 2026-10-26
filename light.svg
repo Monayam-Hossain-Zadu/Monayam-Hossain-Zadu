@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Md. Monayam Hossain Zadu - Full Stack Web Developer and Data Analyst Profile">
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .grid { stroke: #e2e8f0; stroke-width: 0.5; }
+      .glass { fill: rgba(255, 255, 255, 0.7); stroke: rgba(148, 163, 184, 0.3); stroke-width: 1; }
+      .text-primary { fill: #0f172a; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 14px; }
+      .text-heading { fill: #0f172a; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 28px; font-weight: 700; }
+      .text-subheading { fill: #2563eb; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 16px; font-weight: 600; }
+      .text-muted { fill: #64748b; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 14px; }
+      .text-accent { fill: #2563eb; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 14px; font-weight: 600; }
+      .ascii { fill: #06b6d4; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 12px; font-weight: 700; letter-spacing: -1px; }
+      .cursor { fill: #06b6d4; }
+    </style>
+    <pattern id="grid-pattern-light" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" class="grid" />
+    </pattern>
+    <radialGradient id="glow-light" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2563eb" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#f8fafc" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1180" height="610" class="bg" />
+  <rect width="1180" height="610" fill="url(#grid-pattern-light)" />
+  <circle cx="900" cy="100" r="400" fill="url(#glow-light)" />
+  <circle cx="200" cy="500" r="300" fill="url(#glow-light)" />
+
+  <!-- Left Panel: Visual Identity -->
+  <g opacity="0" >
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" fill="freeze" />
+    <rect x="40" y="40" width="420" height="530" rx="16" class="glass" />
+    
+    <!-- Terminal Header -->
+    <rect x="40" y="40" width="420" height="40" rx="16" fill="rgba(255, 255, 255, 0.9)" />
+    <rect x="40" y="64" width="420" height="16" fill="rgba(255, 255, 255, 0.9)" />
+    <circle cx="64" cy="60" r="6" fill="#ef4444" />
+    <circle cx="84" cy="60" r="6" fill="#eab308" />
+    <circle cx="104" cy="60" r="6" fill="#22c55e" />
+    <text x="130" y="65" class="text-muted" font-size="12">developer@profile:~</text>
+
+    <!-- ASCII Visual -->
+    <text x="60" y="140" class="ascii">
+      <tspan x="60" dy="0">      ╭────────────────────────╮</tspan>
+      <tspan x="60" dy="20">      │  &gt; init_profile.sh     │</tspan>
+      <tspan x="60" dy="20">      │  &gt; loading modules...  │</tspan>
+      <tspan x="60" dy="20">      │  &gt; [OK] Laravel        │</tspan>
+      <tspan x="60" dy="20">      │  &gt; [OK] React/Next.js  │</tspan>
+      <tspan x="60" dy="20">      │  &gt; [OK] TensorFlow     │</tspan>
+      <tspan x="60" dy="20">      │  &gt; [OK] Data Analysis  │</tspan>
+      <tspan x="60" dy="20">      │  &gt; ready_              │</tspan>
+      <tspan x="60" dy="20">      ╰────────────────────────╯</tspan>
+    </text>
+
+    <!-- Blinking Cursor -->
+    <rect x="158" y="292" width="8" height="14" class="cursor">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+    </rect>
+
+    <!-- Tagline -->
+    <text x="60" y="380" class="text-subheading">Building scalable web</text>
+    <text x="60" y="405" class="text-subheading">solutions &amp; ML models.</text>
+    
+    <text x="60" y="460" class="text-muted" font-size="12">~/profile $ build --ship</text>
+  </g>
+
+  <!-- Right Panel: System Info -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.3s" fill="freeze" />
+    <rect x="490" y="40" width="650" height="530" rx="16" class="glass" />
+    
+    <text x="520" y="80" class="text-accent" font-size="12" letter-spacing="2">SYSTEM.INFO</text>
+    <text x="520" y="110" class="text-muted" font-size="12">user@developer:~$ ./profile.sh</text>
+
+    <!-- Info Rows with Staggered Animation -->
+    <g font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+      <!-- Name -->
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.5s" fill="freeze" />
+        <text x="520" y="150" fill="#64748b">&gt; NAME</text>
+        <text x="640" y="150" class="text-heading" font-size="18">Md. Monayam Hossain Zadu</text>
+      </g>
+
+      <!-- Role -->
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.7s" fill="freeze" />
+        <text x="520" y="185" fill="#64748b">&gt; ROLE</text>
+        <text x="640" y="185" class="text-primary">Full Stack Web Developer &amp; Data Analyst</text>
+      </g>
+
+      <!-- Location -->
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.9s" fill="freeze" />
+        <text x="520" y="220" fill="#64748b">&gt; LOCATION</text>
+        <text x="640" y="220" class="text-primary">Dinajpur, Bangladesh</text>
+      </g>
+
+      <!-- Focus -->
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.1s" fill="freeze" />
+        <text x="520" y="255" fill="#64748b">&gt; FOCUS</text>
+        <text x="640" y="255" class="text-primary">Scalable Web Apps, ML, Secure Architecture</text>
+      </g>
+
+      <!-- Stack -->
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.3s" fill="freeze" />
+        <text x="520" y="290" fill="#64748b">&gt; STACK</text>
+        <text x="640" y="290" class="text-primary">PHP, Laravel, React, Next.js, Python, SQL</text>
+      </g>
+
+      <!-- Building -->
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.5s" fill="freeze" />
+        <text x="520" y="325" fill="#64748b">&gt; BUILDING</text>
+        <text x="640" y="325" class="text-primary">E-Commerce, AI Tools, Data Pipelines</text>
+      </g>
+    </g>
+
+    <!-- Divider -->
+    <line x1="520" y1="370" x2="1100" y2="370" stroke="#cbd5e1" stroke-width="1" stroke-dasharray="4 4" />
+
+    <!-- Links -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.7s" fill="freeze" />
+      <text x="520" y="410" class="text-muted" font-size="12">CONNECT</text>
+      
+      <a href="https://github.com/Monayam-Hossain-Zadu" target="_blank">
+        <rect x="520" y="430" width="140" height="32" rx="6" fill="rgba(148, 163, 184, 0.15)" stroke="rgba(148, 163, 184, 0.3)" />
+        <text x="590" y="451" text-anchor="middle" class="text-primary" font-size="12">GitHub</text>
+      </a>
+
+      <a href="https://monayam-hossain.netlify.app/" target="_blank">
+        <rect x="680" y="430" width="140" height="32" rx="6" fill="rgba(148, 163, 184, 0.15)" stroke="rgba(148, 163, 184, 0.3)" />
+        <text x="750" y="451" text-anchor="middle" class="text-primary" font-size="12">Portfolio</text>
+      </a>
+
+      <a href="mailto:monayam.hossain.zadu@gmail.com" target="_blank">
+        <rect x="840" y="430" width="140" height="32" rx="6" fill="rgba(148, 163, 184, 0.15)" stroke="rgba(148, 163, 184, 0.3)" />
+        <text x="910" y="451" text-anchor="middle" class="text-primary" font-size="12">Email</text>
+      </a>
+    </g>
+  </g>
+</svg>
