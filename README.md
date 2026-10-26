@@ -6,67 +6,133 @@
 
 <br>
 
-### 👋 Hello, I'm Monayam Hossain Zadu
+# 👋 Hello, I'm Md. Monayam Hossain Zadu
 
-I am a **Full Stack Web Developer** and **Data Analyst** currently pursuing an MSc in Computer Science and Engineering. I specialize in building scalable, secure web applications and leveraging machine learning to solve complex data problems. My work bridges the gap between robust backend architecture, interactive frontend experiences, and data-driven insights.
+**Full-Stack Web Developer · Computer Science Graduate Student · Machine Learning Enthusiast**
+
+I build responsive, user-focused web applications and enjoy exploring software engineering, data analysis, machine learning and deep learning. I’m currently pursuing an **MSc in Computer Science and Engineering at Hajee Mohammad Danesh Science and Technology University (HSTU)**, where I continue to develop my technical knowledge and problem-solving skills.
+
+[Portfolio](https://monayam-hossain.netlify.app/) · [GitHub](https://github.com/Monayam-Hossain-Zadu) · [Email](mailto:monayam.hossain.zadu@gmail.com)
 
 ---
 
-### 🎯 Core Focus
+## About Me
+
+- Currently pursuing an MSc in Computer Science and Engineering at HSTU.
+- Interested in full-stack web development, software engineering, data analysis, machine learning and deep learning.
+- Experienced in building responsive web interfaces and integrating external APIs.
+- Exploring modern web technologies, authentication, and application development.
+- Interested in applying machine learning and deep learning to practical problems.
+- Value clean code, continuous learning, collaboration, and structured problem-solving.
+
+---
+
+## 🎯 Core Focus
 - **Full-Stack Development:** Designing and deploying responsive, high-performance web applications using modern PHP (Laravel) and JavaScript (React, Next.js, Vue.js) ecosystems.
-- **Data Analysis & Machine Learning:** Cleaning, wrangling, and visualizing data, alongside building and deploying ML models (TensorFlow, PyTorch) for real-world classification and detection tasks.
+- **Deep Learning & Machine Learning:** Cleaning, wrangling, and visualizing data, alongside building and deploying DL models (TensorFlow, PyTorch) for real-world classification and detection tasks.
 - **Secure Architecture:** Implementing robust authentication, authorization, and secure coding practices, informed by foundational ethical hacking knowledge.
 
 ---
 
-### 🛠️ Engineering Stack
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | JavaScript, TypeScript, PHP, Python, SQL, HTML5, CSS3 |
-| **Frontend** | React.js, Next.js, Vue.js, Inertia.js, Tailwind CSS, DaisyUI |
-| **Backend** | Laravel, Node.js, RESTful APIs, Better Auth |
-| **Data & ML** | TensorFlow, PyTorch, Pandas, Scikit-learn, Kaggle, Google Colab |
-| **Tools & DevOps** | Git, Postman, VS Code, XAMPP, Netlify, Vite, Microsoft Excel |
+### 🛠️ Engineering Stack & Core Features
+
+#### 💻 Languages
+`JavaScript` `TypeScript` `PHP` `Python` `SQL` `HTML5` `CSS3`
+
+#### 🎨 Frontend & UI
+`React.js` `Next.js` `Vue.js` `Inertia.js` `Tailwind CSS` `DaisyUI` `shadcn ui` `Bootstrap` `Framer Motion` `Lottie-React` `Lucide React` `Prism.js`
+
+#### ⚙️ Backend & Database
+`Laravel` `RESTful APIs` `Better Auth` `Session Management` `CRUD Operations` `Relational Databases (SQL)` `MongoDB` `Express.js`
+
+#### 📊 Data Science & Machine Learning
+`TensorFlow` `PyTorch` `Pandas` `Scikit-learn` `MobileNet` `Custom CNN` `Homogeneous Ensemble Techniques (Tree & Boosting)` `Data Cleaning & Wrangling` `Data Visualization`
+
+#### 🧰 Tools, Platforms & DevOps
+`Git / Version Control` `Visual Studio Code` `Postman` `XAMPP` `Netlify` `Vite` `Anaconda (Jupyter)` `Kaggle` `Google Colab` `Microsoft Excel` `Photoshop`
+
+#### 🚀 Core Competencies & Features
+- **Fluent Responsive Web Design:** Building adaptive, mobile-first interfaces.
+- **API Integration:** Seamless consumption and management of third-party and custom RESTful APIs.
+- **Authentication & Authorization:** Secure user management and role-based access control.
+- **State Management:** Efficient handling of complex application state (React Context, Local Storage).
+- **Interactive Web Design:** Creating engaging, animated, and user-centric experiences.
 
 ---
 
-### 🚀 Featured Projects
+## Featured Projects
 
-- **[Bazar Dor](https://bazar-dor-vercel.vercel.app/)** · *[GitHub](https://github.com/Monayam-Hossain/Bazar-Dor)*  
-  A comprehensive Bengali e-commerce platform for groceries with real-time price tracking, built with Next.js, Tailwind CSS, and Better Auth.
+### 1. Bazar Dor
+An e-commerce web application for browsing Bengali groceries and everyday essentials, with category-based navigation and price-focused shopping features.
 
-- **[Android Ransomware Detection (Thesis)](https://github.com/Monayam-Hossain-Zadu)**  
-  Research project utilizing homogeneous ensemble techniques (Tree and Boosting-based classification models) to detect Android ransomware with high accuracy.
+**Technologies:** React, Next.js, Tailwind CSS, daisyUI, Better Auth
 
-- **[Traffic Sign Classification](https://github.com/Monayam-Hossain-Zadu)**  
-  Machine learning model achieving 98% accuracy on the GTSRB dataset using MobileNet and a custom CNN architecture (15 epochs).
+- [Live Demo](https://bazar-dor-vercel.vercel.app/)
+- [Source Code](https://github.com/Monayam-Hossain/Bazar-Dor.git)
 
-- **[E-Commerce & Management Systems](https://github.com/Monayam-Hossain-Zadu)**  
-  A suite of Laravel-based applications featuring CRUD operations, session management, priority filtering, and responsive financial charting.
+### 2. FitLog
+A fitness tracking application for exploring exercises by muscle group, organizing workout plans, recording sets and repetitions, and monitoring workout progress.
+
+**Technologies:** React, Tailwind CSS, Local Storage, Framer Motion
+
+- [Live Demo](https://fit-log-ruby-kappa.vercel.app/)
+- [Source Code](https://github.com/Monayam-Hossain/Fit-Log.git)
+
+### 3. DevStack
+A technology comparison platform that helps users explore frontend, backend, database, and development tools.
+
+**Technologies:** React, JavaScript, CSS3
+
+- [Live Demo](https://devstack-monayam.netlify.app)
+- [Source Code](https://github.com/Monayam-Hossain/DevStack.git)
+
+### 4. MovieExplorer
+A movie discovery application that integrates an API to display movie information, ratings, genres, and summaries.
+
+**Technologies:** React, API Integration, CSS3
+
+- [Live Demo](https://movie-explorer-monayam.netlify.app)
+- [Source Code](https://github.com/Monayam-Hossain/movie-explorer.git)
+
+### 5. NextLevel Weather
+A weather application that provides weather information for searched cities and the user's current location, featuring animated visuals and dynamic theming.
+
+**Technologies:** React 19, Vite, Tailwind CSS 4, React Router, Open-Meteo API, Lottie, Lucide React
+
+- [Live Demo](https://next-level-weather.netlify.app/)
+- [Source Code](https://github.com/Monayam-Hossain/Next-Level-Weather-App.git)
 
 ---
 
-### 🏆 Achievements & Certifications
+## Education
+
+**MSc in Computer Science and Engineering**  
+Hajee Mohammad Danesh Science and Technology University (HSTU), Dinajpur  
+Expected completion: August 2027
+
+**BSc in Computer Science and Engineering**  
+Prime University, Dhaka
+
+**Higher Secondary Certificate — Science**  
+Saint Philip's High School and College, Dinajpur
+
+---
+
+## 🏆 Achievements & Certifications
 - 🥉 **3rd Runner-up**, Intra-University Programming Contest.
-- 📜 **Full Stack Web Development with PHP, Laravel & Vue JS** – Ostad (Nov 2025).
-- 📜 **Certified Ethical Hacking** – Creative IT Institute (Aug 2023).
+- 📜 **Full Stack Web Development with PHP, Laravel & Vue JS** – Ostad (Nov 06, 2025).
+- 📜 **Certified Ethical Hacking** – Creative IT Institute (Aug 17, 2023).
 
 ---
 
-### 📫 Connect With Me
-<p align="left">
-  <a href="https://github.com/Monayam-Hossain-Zadu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://monayam-hossain.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:monayam.hossain.zadu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+## Let's Connect
 
-<br>
-<p align="center">
-  <em>Thank you for visiting my profile! Feel free to explore my repositories or reach out for collaboration.</em>
-</p>
+I'm interested in connecting with developers, researchers, and technology enthusiasts to exchange ideas, learn from one another, and explore opportunities to build useful software.
+
+- **Portfolio:** [monayam-hossain.netlify.app](https://monayam-hossain.netlify.app/)
+- **GitHub:** [Monayam-Hossain-Zadu](https://github.com/Monayam-Hossain-Zadu)
+- **Email:** [monayam.hossain.zadu@gmail.com](mailto:monayam.hossain.zadu@gmail.com)
+
+---
+
+*Learning continuously. Building thoughtfully. Improving with every project.*
